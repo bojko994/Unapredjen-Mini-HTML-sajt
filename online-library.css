@@ -1,0 +1,39 @@
+table{
+	font-family: arial, sans-serif;
+	border-collapse: collapse;
+	margin: 18px auto;
+	width: 95%;
+}
+
+td{
+	padding: 16px
+}
+
+tr{
+	padding: 20px
+}
+
+th, td{
+	border: solid 2px rgb(255 255 255);
+	font-weight: bolder;
+}
+
+tr{
+	background-color: #B8B6A7;
+}
+
+.even{
+	background-color: #DBD9C8;
+}
+
+#heading{
+	background-color: #A6C4AE;
+	color: rgb(255 255 255);
+	font-size: 24px;
+	padding: 16px 0 16px 0;
+}
+
+th{
+	padding: 4px 8px 4px 8px;
+	font-size: 30px;
+}
